@@ -1,0 +1,9 @@
+c:\users\koma\documents\visual studio 2015\Projects\KIS10\KIS10\bin\Debug\KIS10.exe.config
+c:\users\koma\documents\visual studio 2015\Projects\KIS10\KIS10\bin\Debug\KIS10.exe
+c:\users\koma\documents\visual studio 2015\Projects\KIS10\KIS10\bin\Debug\KIS10.pdb
+c:\users\koma\documents\visual studio 2015\Projects\KIS10\KIS10\obj\Debug\KIS10.csprojResolveAssemblyReference.cache
+c:\users\koma\documents\visual studio 2015\Projects\KIS10\KIS10\obj\Debug\KIS10.Form1.resources
+c:\users\koma\documents\visual studio 2015\Projects\KIS10\KIS10\obj\Debug\KIS10.Properties.Resources.resources
+c:\users\koma\documents\visual studio 2015\Projects\KIS10\KIS10\obj\Debug\KIS10.csproj.GenerateResource.Cache
+c:\users\koma\documents\visual studio 2015\Projects\KIS10\KIS10\obj\Debug\KIS10.exe
+c:\users\koma\documents\visual studio 2015\Projects\KIS10\KIS10\obj\Debug\KIS10.pdb

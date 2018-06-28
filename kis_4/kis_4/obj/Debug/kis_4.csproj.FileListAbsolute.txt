@@ -1,0 +1,9 @@
+c:\users\koma\documents\visual studio 2015\Projects\kis_4\kis_4\bin\Debug\kis_4.exe.config
+C:\Users\Koma\documents\visual studio 2015\Projects\kis_4\kis_4\bin\Debug\kis_4.exe
+C:\Users\Koma\documents\visual studio 2015\Projects\kis_4\kis_4\bin\Debug\kis_4.pdb
+C:\Users\Koma\documents\visual studio 2015\Projects\kis_4\kis_4\obj\Debug\kis_4.csprojResolveAssemblyReference.cache
+C:\Users\Koma\documents\visual studio 2015\Projects\kis_4\kis_4\obj\Debug\kis_4.Form1.resources
+C:\Users\Koma\documents\visual studio 2015\Projects\kis_4\kis_4\obj\Debug\kis_4.Properties.Resources.resources
+C:\Users\Koma\documents\visual studio 2015\Projects\kis_4\kis_4\obj\Debug\kis_4.csproj.GenerateResource.Cache
+C:\Users\Koma\documents\visual studio 2015\Projects\kis_4\kis_4\obj\Debug\kis_4.exe
+C:\Users\Koma\documents\visual studio 2015\Projects\kis_4\kis_4\obj\Debug\kis_4.pdb

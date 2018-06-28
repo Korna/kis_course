@@ -1,0 +1,9 @@
+c:\users\koma\documents\visual studio 2015\Projects\KIS7\KIS7\bin\Debug\KIS7.exe.config
+c:\users\koma\documents\visual studio 2015\Projects\KIS7\KIS7\obj\Debug\KIS7.Form1.resources
+c:\users\koma\documents\visual studio 2015\Projects\KIS7\KIS7\obj\Debug\KIS7.Properties.Resources.resources
+c:\users\koma\documents\visual studio 2015\Projects\KIS7\KIS7\obj\Debug\KIS7.csproj.GenerateResource.Cache
+c:\users\koma\documents\visual studio 2015\Projects\KIS7\KIS7\bin\Debug\KIS7.exe
+c:\users\koma\documents\visual studio 2015\Projects\KIS7\KIS7\bin\Debug\KIS7.pdb
+c:\users\koma\documents\visual studio 2015\Projects\KIS7\KIS7\obj\Debug\KIS7.exe
+c:\users\koma\documents\visual studio 2015\Projects\KIS7\KIS7\obj\Debug\KIS7.pdb
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS7\KIS7\obj\Debug\KIS7.csprojResolveAssemblyReference.cache

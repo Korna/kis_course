@@ -1,0 +1,8 @@
+c:\users\koma\documents\visual studio 2015\Projects\kis_6\kis_6\bin\Debug\kis_6.exe.config
+c:\users\koma\documents\visual studio 2015\Projects\kis_6\kis_6\bin\Debug\kis_6.exe
+c:\users\koma\documents\visual studio 2015\Projects\kis_6\kis_6\bin\Debug\kis_6.pdb
+c:\users\koma\documents\visual studio 2015\Projects\kis_6\kis_6\obj\Debug\kis_6.Form1.resources
+c:\users\koma\documents\visual studio 2015\Projects\kis_6\kis_6\obj\Debug\kis_6.Properties.Resources.resources
+c:\users\koma\documents\visual studio 2015\Projects\kis_6\kis_6\obj\Debug\kis_6.csproj.GenerateResource.Cache
+c:\users\koma\documents\visual studio 2015\Projects\kis_6\kis_6\obj\Debug\kis_6.exe
+c:\users\koma\documents\visual studio 2015\Projects\kis_6\kis_6\obj\Debug\kis_6.pdb

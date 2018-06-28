@@ -1,0 +1,11 @@
+c:\users\koma\documents\visual studio 2015\Projects\KIS8\KIS8\bin\Debug\KIS8.exe.config
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS8\KIS8\bin\Debug\KIS8.exe
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS8\KIS8\bin\Debug\KIS8.pdb
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS8\KIS8\obj\Debug\KIS8.csprojResolveAssemblyReference.cache
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS8\KIS8\obj\Debug\KIS8.Form1.resources
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS8\KIS8\obj\Debug\KIS8.Properties.Resources.resources
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS8\KIS8\obj\Debug\KIS8.csproj.GenerateResource.Cache
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS8\KIS8\obj\Debug\KIS8.exe
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS8\KIS8\obj\Debug\KIS8.pdb
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS8\KIS8\obj\Debug\KIS8.Form2.resources
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS8\KIS8\obj\Debug\KIS8.Form3.resources

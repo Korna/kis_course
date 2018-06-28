@@ -1,0 +1,10 @@
+c:\users\koma\documents\visual studio 2015\Projects\KIS12\KIS12\bin\Debug\KIS12.exe.config
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS12\KIS12\bin\Debug\KIS12.exe
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS12\KIS12\bin\Debug\KIS12.pdb
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS12\KIS12\obj\Debug\KIS12.csprojResolveAssemblyReference.cache
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS12\KIS12\obj\Debug\KIS12.csproj.ResolveComReference.cache
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS12\KIS12\obj\Debug\KIS12.Form1.resources
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS12\KIS12\obj\Debug\KIS12.Properties.Resources.resources
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS12\KIS12\obj\Debug\KIS12.csproj.GenerateResource.Cache
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS12\KIS12\obj\Debug\KIS12.exe
+C:\Users\Koma\documents\visual studio 2015\Projects\KIS12\KIS12\obj\Debug\KIS12.pdb
